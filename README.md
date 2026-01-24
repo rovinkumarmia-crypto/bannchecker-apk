@@ -1,7 +1,7 @@
 # BannChecker APK
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache-green)
 
 Lightweight Flutter app for checking banned phone numbers with automated GitHub-based update system.
 
@@ -55,7 +55,7 @@ flutter build apk --release
 
 ## License
 
-MIT - See [LICENSE](LICENSE) file
+Apache - See [LICENSE](LICENSE) file
 
 ---
 
