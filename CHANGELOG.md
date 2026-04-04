@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.1] - 2026-04-04
+### Fixed
+- Non-`temporarily_unavailable` API fail responses are now treated as unbanned results
+- `temporarily_unavailable` responses still show as a temporary service warning
+- Cleaned update-service logging behavior in the app
+
+### Changed
+- Bumped the app version to `2.0.1`
+
 ## [2.0.0] - 2026-04-04
 ### Added
 - Flutter-native app interface replacing the previous HTML/WebView-based runtime

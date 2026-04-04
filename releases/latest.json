@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "versionCode": 2,
   "changelog": "- Initial release\n- Core banned number checker functionality\n- Support for multiple lists",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.0/banchecker_baron-android-arm64.apk",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.1/banchecker_baron-android-arm64.apk",
   "releaseDate": "2026-04-04",
   "minAndroidVersion": 21,
   "downloadSize": "17MB"
