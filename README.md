@@ -4,16 +4,16 @@ APK distribution repository for `BanChecker Baron`.
 
 ## Latest Release
 
-- Version: `2.0.0`
+- Version: `2.0.1`
 - Release date: `2026-04-04`
 - Recommended APK for most devices: `android-arm64`
 
 ## Direct Downloads
 
-- [android-arm](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.0/banchecker_baron-android-arm.apk)
-- [android-arm64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.0/banchecker_baron-android-arm64.apk)
-- [android-x64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.0/banchecker_baron-android-x64.apk)
-- [universal](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.0/banchecker_baron-universal.apk)
+- [android-arm](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.1/banchecker_baron-android-arm.apk)
+- [android-arm64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.1/banchecker_baron-android-arm64.apk)
+- [android-x64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.1/banchecker_baron-android-x64.apk)
+- [universal](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.1/banchecker_baron-universal.apk)
 
 ## Which APK Should I Use?
 
