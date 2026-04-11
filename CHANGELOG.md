@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.3] - 2026-04-11
+
+### Fixed
+- "Open in Browser" and "Install Now" buttons in the update dialog now work correctly
+- "Open in Browser" opens the GitHub releases page instead of doing nothing
+- Added missing Android manifest queries for `https://` — `canLaunchUrl` returned false on Android 11+ without it
+- Null-safe URL handling to prevent crashes when `apkUrl` is missing
+
+### Added
+- In-app APK download dialog with real progress bar (MB downloaded + percentage)
+- Automatic installer launch after download completes
+
 ## [2.0.2] - 2026-04-11
 
 ### Security
