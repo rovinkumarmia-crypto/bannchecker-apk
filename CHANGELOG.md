@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.0.2] - 2026-04-11
+
+### Security
+- Obscured the API
+- Added User-Agent validation — only official app requests are accepted
+
 ## [2.0.1] - 2026-04-04
 ### Fixed
 - Non-`temporarily_unavailable` API fail responses are now treated as unbanned results
