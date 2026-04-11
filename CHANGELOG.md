@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.0.4] - 2026-04-11
+
+### Changed
+- Update now opens directly in browser instead of in-app download
+- Removed `REQUEST_INSTALL_PACKAGES` permission for Play Store compliance
+
 ## [2.0.3] - 2026-04-11
 
 ### Fixed

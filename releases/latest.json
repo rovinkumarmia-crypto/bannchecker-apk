@@ -1,8 +1,8 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "versionCode": 3,
   "changelog": "- Fixed update dialog buttons (Open in Browser + Install Now)\n- In-app APK download with real progress bar\n- Auto-launch installer after download",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.3/banchecker_baron-android-arm64.apk",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.4/banchecker_baron-android-arm64.apk",
   "releaseDate": "2026-04-11",
   "minAndroidVersion": 21,
   "downloadSize": "17MB"
