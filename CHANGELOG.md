@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.5] - 2026-04-18
+
+### Added
+- In-app APK download & install with live progress bar — fallback to browser if permission denied
+- Share BanChecker button in menu
+- Telegram channel & website links in menu
+
+### Security
+- APK signature check, DEX integrity check, clone/repackage protection
+- Encrypted local storage (AES)
+
+### Fixed
+- Black screen on startup on some devices
+
 ## [2.0.4] - 2026-04-11
 
 ### Changed
