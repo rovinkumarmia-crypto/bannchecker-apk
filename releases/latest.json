@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "versionCode": 5,
-  "changelog": "- In-app APK download & install with progress bar\n- Share BanChecker button in menu\n- Telegram channel & website links in menu\n- Security improvements",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.5/banchecker-arm64.apk",
-  "releaseDate": "2026-04-18",
-  "minAndroidVersion": 24,
-  "downloadSize": "22MB"
+  "version": "2.0.6",
+  "versionCode": 6,
+  "changelog": "- Glassmorphism card design with blur effect\n- Transparency slider (0-100%) for card and background overlay\n- Theme presets: Neon Purple, Ocean Blue, Matrix, Rose Gold\n- Number history with status badges (last 30, encrypted)\n- Batch check mode: check multiple numbers at once\n- Copy button on status result banner\n- Hex color input in color picker\n- Settings reorganized into collapsible sections\n- Result dialog redesigned: wider layout, dark glass\n- Full English UI\n- targetSdk 37, minSdk 21\n- Stronger ProGuard obfuscation",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.6/banchecker-arm64.apk",
+  "releaseDate": "2026-05-21",
+  "minAndroidVersion": 21,
+  "downloadSize": "20MB"
 }

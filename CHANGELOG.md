@@ -1,5 +1,30 @@
 # Changelog
 
+## [2.0.6] - 2026-05-21
+
+### Added
+- Glassmorphism card design — card blurs background image for frosted glass effect
+- Transparency slider (0–100%) for card opacity and background overlay darkening
+- Theme presets: Neon Purple, Ocean Blue, Matrix, Rose Gold — one tap to switch
+- Number history: last 30 checked numbers with status badge and timestamp, stored encrypted
+- Batch check mode: enter multiple numbers (one per line) and check all at once
+- Copy button directly on the status result banner
+- Hex color input (`RRGGBB`) in settings color picker — pick any color
+- Settings dialog reorganized into collapsible sections (Themes, General, Transparency, Colors, Texts, Result dialog, Background)
+
+### Changed
+- Result dialog redesigned: wider layout, dark glass background, colored left status bar, all-white text
+- Status, details and batch result panels now use glassmorphism (blur + transparent background)
+- All transparency elements scale correctly with card opacity — truly invisible at 0%
+- Full English UI — all labels, section titles and messages translated
+- targetSdk bumped to 37, minSdk lowered to 21
+- ProGuard rules strengthened: 7 optimization passes, tighter keeps, Kotlin null-check removal
+
+### Fixed
+- Card not going fully transparent at 0% opacity (gradient replaced with direct alpha color)
+- Inner card border and shadow now fade with opacity instead of staying hardcoded visible
+- Result dialog background was using accent color as solid fill — now always dark glass
+
 ## [2.0.5] - 2026-04-18
 
 ### Added
