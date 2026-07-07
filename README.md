@@ -4,16 +4,14 @@ APK distribution repository for `BanChecker Baron`.
 
 ## Latest Release
 
-- Version: `2.0.6`
-- Release date: `2026-05-21`
+- Version: `2.0.7`
+- Release date: `2026-07-07`
 - Recommended APK for most devices: `arm64`
 
 ## Direct Downloads
 
-- [arm64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.6/banchecker-arm64.apk)
-- [arm](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.6/banchecker-arm.apk)
-- [x64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.6/banchecker-x64.apk)
-- [universal](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.6/banchecker-universal.apk)
+- [arm64](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.7/banchecker-arm64.apk)
+- [arm](https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.7/banchecker-arm.apk)
 
 ## Which APK Should I Use?
 
@@ -21,8 +19,6 @@ APK distribution repository for `BanChecker Baron`.
 | --- | --- |
 | `arm64` | You have a modern Android phone or tablet. This is the best choice for most users. |
 | `arm` | You have an older 32-bit ARM Android device. |
-| `x64` | You use an x64 Android device or emulator. |
-| `universal` | You are not sure which architecture your device uses and want the safest fallback. |
 
 ## Install Notes
 
