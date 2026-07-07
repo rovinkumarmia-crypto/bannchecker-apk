@@ -1,9 +1,9 @@
 {
-  "version": "2.0.6",
-  "versionCode": 6,
-  "changelog": "- Glassmorphism card design with blur effect\n- Transparency slider (0-100%) for card and background overlay\n- Theme presets: Neon Purple, Ocean Blue, Matrix, Rose Gold\n- Number history with status badges (last 30, encrypted)\n- Batch check mode: check multiple numbers at once\n- Copy button on status result banner\n- Hex color input in color picker\n- Settings reorganized into collapsible sections\n- Result dialog redesigned: wider layout, dark glass\n- Full English UI\n- targetSdk 37, minSdk 21\n- Stronger ProGuard obfuscation",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.6/banchecker-arm64.apk",
-  "releaseDate": "2026-05-21",
+  "version": "2.0.7",
+  "versionCode": 7,
+  "changelog": "- Ghost UI: transparent cards, hairline borders, minimal color\n- 9 themes: Ghost, Neon Purple, Crimson, Cyber, Sakura, Void + existing\n- Settings dialog redesigned to match app aesthetic\n- Result dialog adapts to selected theme colors",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.7/banchecker-arm64.apk",
+  "releaseDate": "2026-07-07",
   "minAndroidVersion": 21,
   "downloadSize": "20MB"
 }

@@ -1,5 +1,25 @@
 # Changelog
 
+## [2.0.7] - 2026-07-07
+
+### Added
+- Rich ban card with colored badges for ban type, violation, appeal availability
+- Appeal status banner: Under Review / Unbanned / Rejected / No Appeal Filed
+- Timestamps for ban date and appeal filing date
+- EU account indicator
+- 9 themes: Ghost, Neon Purple, Crimson, Cyber, Sakura, Void (+ Ocean Blue, Matrix, Rose Gold)
+
+### Changed
+- Ghost UI: transparent cards, hairline borders, near-zero color
+- Settings dialog redesigned with glassmorphism to match app aesthetic
+- Result dialog adapts to selected theme colors
+- Status banner glow and color intensity reduced
+- Ban card labels in English
+- Batch mode removed
+
+### Fixed
+- Violation labels and ban type classification
+
 ## [2.0.6] - 2026-05-21
 
 ### Added
