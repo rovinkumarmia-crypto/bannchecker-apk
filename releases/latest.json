@@ -1,9 +1,9 @@
-{
-  "version": "2.0.7",
-  "versionCode": 7,
-  "changelog": "- Ghost UI: transparent cards, hairline borders, minimal color\n- 9 themes: Ghost, Neon Purple, Crimson, Cyber, Sakura, Void + existing\n- Settings dialog redesigned to match app aesthetic\n- Result dialog adapts to selected theme colors",
-  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.7/banchecker-arm64.apk",
-  "releaseDate": "2026-07-07",
+﻿{
+  "version": "2.0.8",
+  "versionCode": 2008,
+  "changelog": "Video/GIF backgrounds, blur slider, 8 new themes",
+  "apkUrl": "https://github.com/7ucg/bannchecker-apk/releases/download/v2.0.8/banchecker-arm64.apk",
+  "releaseDate": "2026-07-17",
   "minAndroidVersion": 21,
-  "downloadSize": "20MB"
+  "downloadSize": "22MB"
 }

@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.8] - 2026-07-17
+
+### Added
+- Video (MP4) and animated GIF backgrounds — pick from gallery or load via URL
+- Video sound toggle (mute/unmute)
+- Blur slider: set blur to 0 for a fully clear see-through card, or up to 28 for heavy frosted glass
+- 8 new themes: Tokyo Night, Dracula, Synthwave, Amber, Forest, Cobalt, Sunset, Ice
+
+
 ## [2.0.7] - 2026-07-07
 
 ### Added
